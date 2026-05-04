@@ -1,0 +1,112 @@
+{
+  "university": {
+    "name": "Springfield Institute of Technology",
+    "tagline": "Academic answers in one student-friendly place"
+  },
+  "leadership": {
+    "principal": {
+      "name": "Dr. Meera Nair",
+      "details": "Principal of Springfield Institute of Technology, known for student mentorship, academic planning, and research-focused campus initiatives."
+    },
+    "chairman": {
+      "name": "Mr. Arvind Rao",
+      "details": "Chairman of the institute governing council, focused on scholarships, infrastructure, and industry partnerships."
+    }
+  },
+  "subjects": [
+    {
+      "name": "Data Structures",
+      "aliases": ["ds", "data structure", "data structures"],
+      "department": "Computer Science and Engineering",
+      "faculty": "Prof. Kavita Sharma",
+      "description": "Covers arrays, linked lists, stacks, queues, trees, graphs, hashing, and algorithmic problem solving."
+    },
+    {
+      "name": "Database Management Systems",
+      "aliases": ["dbms", "database", "databases"],
+      "department": "Computer Science and Engineering",
+      "faculty": "Dr. Rohan Iyer",
+      "description": "Introduces relational design, SQL, normalization, transactions, indexing, and database administration."
+    },
+    {
+      "name": "Operating Systems",
+      "aliases": ["os", "operating system", "operating systems"],
+      "department": "Computer Science and Engineering",
+      "faculty": "Prof. Neha Gupta",
+      "description": "Explores processes, scheduling, memory management, file systems, concurrency, and deadlocks."
+    },
+    {
+      "name": "Computer Networks",
+      "aliases": ["cn", "networks", "computer network"],
+      "department": "Computer Science and Engineering",
+      "faculty": "Dr. Sameer Menon",
+      "description": "Covers networking models, routing, TCP/IP, DNS, HTTP, wireless networks, and network security basics."
+    },
+    {
+      "name": "Engineering Mathematics",
+      "aliases": ["maths", "mathematics", "engineering math"],
+      "department": "Basic Sciences",
+      "faculty": "Dr. Priya Banerjee",
+      "description": "Focuses on calculus, matrices, differential equations, probability, and numerical techniques."
+    },
+    {
+      "name": "Digital Electronics",
+      "aliases": ["de", "digital", "electronics"],
+      "department": "Electronics and Communication",
+      "faculty": "Prof. Ahmed Khan",
+      "description": "Includes number systems, logic gates, Boolean algebra, combinational circuits, and sequential circuits."
+    }
+  ],
+  "fees": [
+    {
+      "program": "CSE",
+      "fullName": "Computer Science and Engineering",
+      "annualFee": "Rs. 1,25,000",
+      "notes": "Includes tuition, lab access, library, digital learning resources, and student activity charges."
+    },
+    {
+      "program": "ECE",
+      "fullName": "Electronics and Communication Engineering",
+      "annualFee": "Rs. 1,10,000",
+      "notes": "Includes tuition, electronics lab access, library, and student activity charges."
+    },
+    {
+      "program": "ME",
+      "fullName": "Mechanical Engineering",
+      "annualFee": "Rs. 95,000",
+      "notes": "Includes tuition, workshop access, laboratory usage, library, and student activity charges."
+    },
+    {
+      "program": "MBA",
+      "fullName": "Master of Business Administration",
+      "annualFee": "Rs. 1,40,000",
+      "notes": "Includes tuition, case-study resources, library, placement support, and student activity charges."
+    }
+  ],
+  "culturalActivities": [
+    {
+      "name": "Aurora Fest",
+      "schedule": "Every February",
+      "details": "Annual cultural festival with music, dance, theatre, fashion show, art stalls, and inter-college competitions."
+    },
+    {
+      "name": "Literary Circle",
+      "schedule": "Fridays after class",
+      "details": "Debates, poetry slams, creative writing sessions, quizzes, and public speaking practice."
+    },
+    {
+      "name": "Rhythm Club",
+      "schedule": "Twice a month",
+      "details": "Student-led music jam sessions, open mic evenings, and band practice."
+    },
+    {
+      "name": "NSS and Outreach",
+      "schedule": "Monthly drives",
+      "details": "Community service, cleanliness drives, blood donation camps, and awareness campaigns."
+    }
+  ],
+  "contacts": {
+    "admissions": "admissions@sit.example.edu",
+    "office": "+91 98765 43210"
+  }
+}
