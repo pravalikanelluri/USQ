@@ -16,9 +16,9 @@ Response
 Chatbot Interface
 
 ->Technologies
-React.js
-JavaScript
-Vite
+React.js,
+JavaScript,
+Vite,
 Tailwind CSS
 
 - > How to run
